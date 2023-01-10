@@ -4,7 +4,7 @@ Hi, I'm just learner. Still learning how to code.
 - 📫 How to reach me:
 [![Linkedin: Ardian Arvon](https://img.shields.io/badge/-ArdianArvon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ardian-arvon/)](https://www.linkedin.com/in/ardian-arvon/)
 - ⚡ How to contact me: 
-![](https://dcbadge.vercel.app/api/shield/366448676937138177)
+[![](https://dcbadge.vercel.app/api/shield/366448676937138177)](https://discordapp.com/users/366448676937138177)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrArvon&langs_count=8&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
