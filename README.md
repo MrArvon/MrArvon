@@ -1,13 +1,15 @@
 ### Hi there 👋
-Hi, I'm just ordinary person. Still learning how to code.
-- 🌱 I’m currently learning Python & Go.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ardian-arvon/)
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrArvon&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
--->
-[![github stats](https://github-readme-stats.vercel.app/api?username=MrArvon&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I'm just learner. Still learning how to code.
+- 🌱 I’m currently learning about Backend using Python & Go.
+- 📫 How to reach me:
+[![Linkedin: Ardian Arvon](https://img.shields.io/badge/-ArdianArvon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ardian-arvon/)](https://www.linkedin.com/in/ardian-arvon/)
+- ⚡ How to contact me: 
+![](https://dcbadge.vercel.app/api/shield/366448676937138177)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrArvon&langs_count=8&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=MrArvon&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **MrArvon/MrArvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
