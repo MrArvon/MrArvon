@@ -2,10 +2,11 @@
 Hi, I'm just a learner. Still learning how to code.
 - 🌱 I’m currently learning about Backend using Python & Go.
 - 📫 How to reach me:
-[![Linkedin: Ardian Arvon](https://img.shields.io/badge/-ArdianArvon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ardian-arvon/)](https://www.linkedin.com/in/ardian-arvon/)
+<br>[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>](https://www.linkedin.com/in/ardian-arvon/)
 - ⚡ How to contact me: 
-[![](https://dcbadge.vercel.app/api/shield/366448676937138177)](https://discordapp.com/users/366448676937138177)
-
+<br>[<img src="https://dcbadge.vercel.app/api/shield/366448676937138177" height="35" alt="discord logo"/>](https://discordapp.com/users/366448676937138177)
+[<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>](mailto:ard.arvon@gmail.com)
+  
 ----
 
 **What do I know:**  
