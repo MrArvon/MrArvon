@@ -12,7 +12,7 @@ Hi, I'm just a learner. Still learning how to code.
 **What do I know:**  
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a style="display: inline-block; pointer-events: none;">
     <img src="https://skillicons.dev/icons?i=py,go,js,html,css,cpp" />
     <br>
     <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,mysql,mongodb" />
