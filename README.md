@@ -12,9 +12,9 @@ Hi, I'm just a learner. Learn from everywhere.<br><br>
 
 <p align="left">
   <a href="https://github.com/MrArvon">
-    <img src="https://skillicons.dev/icons?i=py,js,go,html,css,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,js,go,html,css,cpp" />
     <br>
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=spring,angular,fastapi,flask,django,postgres,mysql,mongodb" />
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,git,linux,docker,gcp,postman,rabbitmq,regex" />
   </a>
